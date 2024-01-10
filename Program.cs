@@ -8,6 +8,8 @@ List<Product> products = new List<Product>()
     new Product(){PName="Stump",PPrice=28000,PBrand="MRF",ManufacturingDate=new DateTime(day:10,month:10,year:2022),ExpiryDate=new DateTime(day:10,month:10,year:2022)},
     new Product(){PName="Glows",PPrice=29000,PBrand="MRF",ManufacturingDate=new DateTime(day:10,month:10,year:2022),ExpiryDate=new DateTime(day:10,month:10,year:2022)},
     new Product(){PName="Halmet",PPrice=23000,PBrand="MRF",ManufacturingDate=new DateTime(day:10,month:10,year:2022),ExpiryDate=new DateTime(day:10,month:10,year:2022)},
+    new Product(){PName="Shoes",PPrice=29000,PBrand="MRF",ManufacturingDate=new DateTime(day:10,month:10,year:2022),ExpiryDate=new DateTime(day:10,month:10,year:2022)},
+
 
 };
 Console.WriteLine("Name \t Price \t Brand \t ManuFacturingDate \t ExpiryDate ");
