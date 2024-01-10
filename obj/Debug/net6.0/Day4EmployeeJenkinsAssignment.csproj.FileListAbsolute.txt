@@ -1,0 +1,14 @@
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\bin\Debug\net6.0\Day4EmployeeJenkinsAssignment.exe
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\bin\Debug\net6.0\Day4EmployeeJenkinsAssignment.deps.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\bin\Debug\net6.0\Day4EmployeeJenkinsAssignment.runtimeconfig.json
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\bin\Debug\net6.0\Day4EmployeeJenkinsAssignment.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\bin\Debug\net6.0\Day4EmployeeJenkinsAssignment.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.AssemblyInfoInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.AssemblyInfo.cs
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.csproj.CoreCompileInputs.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\refint\Day4EmployeeJenkinsAssignment.dll
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.pdb
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\Day4EmployeeJenkinsAssignment.genruntimeconfig.cache
+D:\mphasis Simplilearn\Phase3\Assignment\Day4\Day4EmployeeJenkinsAssignment\Day4EmployeeJenkinsAssignment\obj\Debug\net6.0\ref\Day4EmployeeJenkinsAssignment.dll
